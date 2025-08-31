@@ -1,2 +1,2 @@
-# Hello
+# Hola amigo
 My first github repository
